@@ -16,7 +16,7 @@
     "lucide-react": "^0.344.0",
     "framer-motion": "^11.0.8",
     "react-intersection-observer": "^9.8.1",
-    "firebase": "^10.8.1",
+    "firebase": "^12.8.0",
     "react-helmet-async": "^2.0.4",
     "@emailjs/browser": "^4.3.3"
   },
